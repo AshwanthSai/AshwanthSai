@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a recent, computer science graduate from Macquarie University.  I have experience in web development, data analytics. Presently revisiting fundamentals for interviews. 
+I am a recent, computer science graduate from Macquarie University.  Experienced in Web Development, data analytics. Presently revisiting fundamentals for interviews. 
 
 <!--
 **AshwanthSai/AshwanthSai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
