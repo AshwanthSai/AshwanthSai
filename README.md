@@ -79,7 +79,6 @@
 <br/>  
 
 <h3 align="left">Connect with me:</h3>
-
 <div align="center">  
     <a href="https://www.linkedin.com/in/a-sai/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
@@ -93,20 +92,21 @@
 </div>
 
 <br/>
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
-  <p>
+
+<div align="center">  
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanthsai&show_icons=true&locale=en&layout=compact" alt="ashwanthsai" />
   </p>
-  <p>
+  <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=ashwanthsai&show_icons=true&locale=en" alt="ashwanthsai" />
   </p>
-  <p>
+  <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanthsai&" alt="ashwanthsai" />
   </p>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
-  <p>
+<div align="center">  
+  <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=ashwanthsai" alt="ashwanthsai" />
     </a>
