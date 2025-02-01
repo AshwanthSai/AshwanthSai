@@ -80,14 +80,14 @@
 
 <h3 align="left">Connect with me:</h3>
 
-<div style="display: flex; justify-content: center; align-items: center; height: 100vh; flex-direction: column;">
-    <a href="https://www.linkedin.com/in/a-sai/" target="_blank" style="margin: 10px 0;">
+<div align="center">  
+    <a href="https://www.linkedin.com/in/a-sai/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" />
     </a>
-    <a href="https://stackoverflow.com/users/19600923/a-sai" target="_blank" style="margin: 10px 0;">
+    <a href="https://stackoverflow.com/users/19600923/a-sai" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow Profile" height="30" width="40" />
     </a>
-    <a href="https://leetcode.com/u/ashwanthsai/" target="_blank" style="margin: 10px 0;">
+    <a href="https://leetcode.com/u/ashwanthsai/" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode Profile" height="30" width="40" />
     </a>
 </div>
