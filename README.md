@@ -79,7 +79,7 @@
 <br/>  
 
 <h3 align="left">Connect with me:</h3>
-<div style="display: block; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
     <a href="https://linkedin.com/in/https://www.linkedin.com/in/a-sai/" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a-sai/" height="30" width="40" />
     </a>
@@ -91,7 +91,7 @@
     </a>
 </div>
 
-<div style="display: block; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanthsai&show_icons=true&locale=en&layout=compact" alt="ashwanthsai" />
   </p>
@@ -103,7 +103,7 @@
   </p>
 </div>
 
-<div style="display: block; text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=ashwanthsai" alt="ashwanthsai" />
