@@ -98,7 +98,7 @@
 
 ![github-wrapped](https://github.com/user-attachments/assets/3ff0ea55-1ef4-44aa-a073-6adb94bd71b0)
 
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ashwanthsai&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanthsai" /> </p>
 
 
 
