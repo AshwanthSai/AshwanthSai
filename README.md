@@ -80,31 +80,31 @@
 
 <h3 align="left">Connect with me:</h3>
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/a-sai/" target="blank" style="display: block; margin: 10px 0;">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/a-sai/" target="blank" style="margin: 10px 0;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/a-sai/" height="30" width="40" />
   </a>
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19600923/a-sai" target="blank" style="display: block; margin: 10px 0;">
+  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/19600923/a-sai" target="blank" style="margin: 10px 0;">>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/19600923/a-sai" height="30" width="40" />
   </a>
-  <a href="https://www.leetcode.com/https://leetcode.com/u/ashwanthsai/" target="blank" style="display: block; margin: 10px 0;">
+  <a href="https://www.leetcode.com/https://leetcode.com/u/ashwanthsai/" target="blank" style="margin: 10px 0;">>
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ashwanthsai/" height="30" width="40" />
   </a>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
-  <p style="display: block; margin: 10px 0;">
+  <p style="margin: 10px 0;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashwanthsai&show_icons=true&locale=en&layout=compact" alt="ashwanthsai" />
   </p>
-  <p style="display: block; margin: 10px 0;">
+  <p style="margin: 10px 0;">
     <img src="https://github-readme-stats.vercel.app/api?username=ashwanthsai&show_icons=true&locale=en" alt="ashwanthsai" />
   </p>
-  <p style="display: block; margin: 10px 0;">
+  <p style="margin: 10px 0;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwanthsai&" alt="ashwanthsai" />
   </p>
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center; flex-direction: column; height: 100vh;">
-  <p style="display: block; margin: 10px 0; text-align: center;">
+  <p style="margin: 10px 0;">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=ashwanthsai" alt="ashwanthsai" />
     </a>
