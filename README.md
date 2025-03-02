@@ -5,10 +5,8 @@
 <h1 align="center">Hi 👋, I'm Sai</h1>
 <h3 align="center"> I'm a Software Engineer with expertise in full-stack development, specializing in React.js, Node.js and AI Agents. Based in Sydney, Australia.</h3>
 
-- 🔭 I’m currently working on [SydneyKart](https://github.com/AshwanthSai/SydneyKart)
-- 🌱 I’m currently in **AI Agents, Kubernetes and NextJS**
+- 🌱 I’m currently in Revisting Data Structures and Algorithms, Typescript, NextJS.
 - 👯 I’m looking to collaborate on [AI Agentic Framework](https://github.com/AshwanthSai/AI_Agent)
-- 🤝 I’m looking for help with [SydneyFlix](https://github.com/AshwanthSai/SydneyFlix-Generative-AI)
 - 👨‍💻 All of my projects are available at [https://www.ashwanthsai.com/](https://www.ashwanthsai.com/)
 - 💬 Ask me about **React, Node and AI Agents**
 - 📫 How to reach me **email@ashwanthsai.com**
