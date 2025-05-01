@@ -106,7 +106,7 @@
 <div align="center">  
   <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
-      <img src="https://github-profile-trophy.vercel.app/?username=ashwanthsai" alt="ashwanthsai" />
+      <img src="https://github-profile-trophy.vercel.app/?username=ashwanthsai&column=-1" alt="ashwanthsai" />
     </a>
   </p>
 </div>
@@ -114,8 +114,14 @@
 
 ![github-wrapped](https://github.com/user-attachments/assets/3ff0ea55-1ef4-44aa-a073-6adb94bd71b0)
 
+
+---
+<p align="center"><i>"Many Paths, One Truth: Lit by Wisdom, Bound by Faith."</i></p>
+<p align="center">
+  <sub>Echoed in principles from: Bible (Prov 3:5-6)  ·  Quran (2:286)  ·  Bhagavad Gita (4:7)</sub>
+</p>
+
+---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ashwanthsai&label=Profile%20views&color=0e75b6&style=flat" alt="ashwanthsai" /> </p>
-
-
-
 
